@@ -18,7 +18,7 @@ This project aims to predict the class of a given image using the Inception-v3 m
 First, clone the repository from GitHub:
 
 ```sh
-git clone https://github.com/Sathvika-891/image-classification.git
+git clone https://github.com/Sathvika-891/PasswordGuessing.git
 cd image-classification
 ```
 
